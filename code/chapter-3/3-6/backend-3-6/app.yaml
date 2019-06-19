@@ -1,0 +1,9 @@
+published:
+  - app:
+      category: life
+      application: weather
+      name: 天气
+      publish_date: 2018-10-01
+      url: /server/weather
+      desc: this is a weather app.
+
