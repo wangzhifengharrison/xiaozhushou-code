@@ -1,2 +1,2 @@
 Django==2.0
-numpy==1.15
+numpy==1.22.0
